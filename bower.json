@@ -1,0 +1,21 @@
+{
+  "name": "tools-flexbox",
+  "version":"0.0.1",
+  "homepage": "https://github.com/cssberries/tools-flexbox",
+  "authors": [
+    "Yevgeniy Belov"
+  ],
+  "description": "Mixins with prefixed flexbox",
+  "main": "tools-flexbox",
+  "keywords": [
+    "flexbox",
+    "css",
+    "oocss",
+    "itcss",
+    "bem",
+    "tools",
+    "prefixes"
+  ],
+  "license": "MIT",
+  "private": true
+}
